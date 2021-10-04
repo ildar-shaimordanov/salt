@@ -5,6 +5,8 @@ _Set of lovely tools_
 * [Runtime environments](#runtime-environments)
   * [Terminals](#terminals)
   * [Unix-like systems](#unix-like-systems)
+  * [Shells and shell extensions](#shells-and-shell-extensions)
+* [File managers](#file-managers)
 <!-- md-toc-end -->
 
 # Runtime environments
@@ -28,3 +30,12 @@ A Windows software package providing an interface similar to a Unix pty-master f
 WIN32 native port of BusyBox
 
 * https://github.com/rmyorston/busybox-w32
+
+## Shells and shell extensions
+
+* https://github.com/mridgers/clink
+
+# File managers
+
+* https://farmanager.com/download.php
+* https://github.com/derceg/explorerplusplus

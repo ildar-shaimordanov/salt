@@ -7,6 +7,7 @@ _Set of lovely tools_
   * [Unix-like systems](#unix-like-systems)
   * [Shells and shell extensions](#shells-and-shell-extensions)
 * [File managers](#file-managers)
+* [Viewers](#viewers)
 <!-- md-toc-end -->
 
 # Runtime environments
@@ -39,3 +40,9 @@ WIN32 native port of BusyBox
 
 * https://farmanager.com/download.php
 * https://github.com/derceg/explorerplusplus
+
+# Viewers
+
+* https://www.faststone.org/FSIVDownload.htm
+* http://www.stdutility.com/stduviewer.html
+* https://www.sumatrapdfreader.org/download-free-pdf-viewer

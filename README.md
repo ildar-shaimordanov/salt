@@ -8,6 +8,7 @@ _Set of lovely tools_
   * [Shells and shell extensions](#shells-and-shell-extensions)
 * [File managers](#file-managers)
 * [Viewers](#viewers)
+* [Converters](#converters)
 <!-- md-toc-end -->
 
 # Runtime environments
@@ -46,3 +47,10 @@ WIN32 native port of BusyBox
 * https://www.faststone.org/FSIVDownload.htm
 * http://www.stdutility.com/stduviewer.html
 * https://www.sumatrapdfreader.org/download-free-pdf-viewer
+
+# Converters
+
+* https://github.com/jgm/pandoc
+* https://wkhtmltopdf.org/downloads.html
+* https://blog.alivate.com.au/poppler-windows/
+* https://www.xpdfreader.com/download.html

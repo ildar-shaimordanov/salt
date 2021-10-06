@@ -36,6 +36,7 @@ WIN32 native port of BusyBox
 ## Shells and shell extensions
 
 * https://github.com/mridgers/clink
+* https://github.com/chrisant996/clink
 
 # File managers
 

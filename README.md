@@ -43,15 +43,40 @@ WIN32 native port of BusyBox
 * https://farmanager.com/download.php
 * https://github.com/derceg/explorerplusplus
 
-# Viewers
+# Viewers, editors and converters
+
+## Viewers
 
 * https://www.faststone.org/FSIVDownload.htm
 * http://www.stdutility.com/stduviewer.html
 * https://www.sumatrapdfreader.org/download-free-pdf-viewer
 
-# Converters
+## Editors
+
+* https://github.com/notepad-plus-plus/notepad-plus-plus
+* https://github.com/rizonesoft/Notepad3
+* https://github.com/orbitalquark/textadept
+* https://github.com/stefankueng/BowPad
+
+## Converters
+
+Text converters
 
 * https://github.com/jgm/pandoc
 * https://wkhtmltopdf.org/downloads.html
 * https://blog.alivate.com.au/poppler-windows/
 * https://www.xpdfreader.com/download.html
+
+Code converters (decompilers)
+
+* https://github.com/leibnitz27/cfr
+* https://github.com/intoolswetrust/jd-cli
+
+# What is this and How to...
+
+This document is the permanently moderated collection of scripts, tools and applications I use, would like to use or something I probably try to use.
+
+I edit it time to time and update passing it through the filter as follows:
+
+```
+```

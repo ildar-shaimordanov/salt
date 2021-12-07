@@ -7,8 +7,11 @@ _Set of lovely tools_
   * [Unix-like systems](#unix-like-systems)
   * [Shells and shell extensions](#shells-and-shell-extensions)
 * [File managers](#file-managers)
-* [Viewers](#viewers)
-* [Converters](#converters)
+* [Viewers, editors and converters](#viewers-editors-and-converters)
+  * [Viewers](#viewers)
+  * [Editors](#editors)
+  * [Converters](#converters)
+* [What is this and How to...](#what-is-this-and-how-to)
 <!-- md-toc-end -->
 
 # Runtime environments

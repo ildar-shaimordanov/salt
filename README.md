@@ -82,4 +82,7 @@ This document is the permanently moderated collection of scripts, tools and appl
 I edit it time to time and update passing it through the filter as follows:
 
 ```
+git-md-toc -ut -- README.md
 ```
+
+* `git-md-toc` - the Perl script for detecting/creating/updating the Table of Content. It is hosted at https://github.com/ildar-shaimordanov/git-markdown-toc.

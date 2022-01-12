@@ -69,6 +69,7 @@ Text converters
 * https://wkhtmltopdf.org/downloads.html
 * https://blog.alivate.com.au/poppler-windows/
 * https://www.xpdfreader.com/download.html
+* https://github.com/rust-lang/mdBook
 
 Code converters (decompilers)
 

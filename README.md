@@ -1,6 +1,6 @@
 _Set of lovely tools_
 
-<!-- md-toc-begin -->
+<!-- toc-begin -->
 # Table of Content
 * [Runtime environments](#runtime-environments)
   * [Terminals](#terminals)
@@ -11,8 +11,11 @@ _Set of lovely tools_
   * [Viewers](#viewers)
   * [Editors](#editors)
   * [Converters](#converters)
+    * [Text converters](#text-converters)
+    * [Code converters (decompilers)](#code-converters-decompilers)
+    * [Data formatters](#data-formatters)
 * [What is this and How to...](#what-is-this-and-how-to)
-<!-- md-toc-end -->
+<!-- toc-end -->
 
 # Runtime environments
 
@@ -63,7 +66,7 @@ WIN32 native port of BusyBox
 
 ## Converters
 
-Text converters
+### Text converters
 
 * Pandoc https://github.com/jgm/pandoc
 * wkhtmltopdf https://wkhtmltopdf.org/downloads.html
@@ -71,10 +74,16 @@ Text converters
 * PDF converters https://www.xpdfreader.com/download.html
 * Online book creator https://github.com/rust-lang/mdBook
 
-Code converters (decompilers)
+### Code converters (decompilers)
 
 * Java https://github.com/leibnitz27/cfr
 * Java https://github.com/intoolswetrust/jd-cli
+
+### Data formatters
+
+* json2yaml https://github.com/bronze1man/json2yaml
+* yaml2json https://github.com/bronze1man/yaml2json
+* jq https://github.com/stedolan/jq
 
 # What is this and How to...
 

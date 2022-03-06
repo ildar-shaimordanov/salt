@@ -20,61 +20,61 @@ _Set of lovely tools_
 
 Customizable Windows terminals with tabs, hotkeys and more
 
-* https://github.com/Maximus5/ConEmu
-* https://github.com/cbucher/console
+* ConEmu https://github.com/Maximus5/ConEmu
+* ConsoleZ https://github.com/cbucher/console
 
 ## Unix-like systems
 
-* https://cygwin.com
-* https://www.msys2.org/wiki/MSYS2-installation/
+* Cygwin https://cygwin.com
+* MSYS2 https://www.msys2.org/wiki/MSYS2-installation/
 
 A Windows software package providing an interface similar to a Unix pty-master for communicating with Windows console programs.
 
-* https://github.com/rprichard/winpty
+* winpty https://github.com/rprichard/winpty
 
 WIN32 native port of BusyBox
 
-* https://github.com/rmyorston/busybox-w32
+* BusyBox https://github.com/rmyorston/busybox-w32
 
 ## Shells and shell extensions
 
-* https://github.com/mridgers/clink
-* https://github.com/chrisant996/clink
+* Clink (by Martin Ridgers) https://github.com/mridgers/clink
+* Clink (by Chris Antos) https://github.com/chrisant996/clink
 
 # File managers
 
-* https://farmanager.com/download.php
-* https://github.com/derceg/explorerplusplus
+* Far Manager https://farmanager.com/download.php
+* Explorer++ https://github.com/derceg/explorerplusplus
 
 # Viewers, editors and converters
 
 ## Viewers
 
-* https://www.faststone.org/FSIVDownload.htm
-* http://www.stdutility.com/stduviewer.html
-* https://www.sumatrapdfreader.org/download-free-pdf-viewer
+* FastStone Image Viewer https://www.faststone.org/FSIVDownload.htm
+* STDU Viewer http://www.stdutility.com/stduviewer.html
+* Sumatra PDF reader https://www.sumatrapdfreader.org/download-free-pdf-viewer
 
 ## Editors
 
-* https://github.com/notepad-plus-plus/notepad-plus-plus
-* https://github.com/rizonesoft/Notepad3
-* https://github.com/orbitalquark/textadept
-* https://github.com/stefankueng/BowPad
+* Notepad++ https://github.com/notepad-plus-plus/notepad-plus-plus
+* Notepad3 https://github.com/rizonesoft/Notepad3
+* Textadept https://github.com/orbitalquark/textadept
+* BowPad https://github.com/stefankueng/BowPad
 
 ## Converters
 
 Text converters
 
-* https://github.com/jgm/pandoc
-* https://wkhtmltopdf.org/downloads.html
-* https://blog.alivate.com.au/poppler-windows/
-* https://www.xpdfreader.com/download.html
-* https://github.com/rust-lang/mdBook
+* Pandoc https://github.com/jgm/pandoc
+* wkhtmltopdf https://wkhtmltopdf.org/downloads.html
+* PDF converters https://blog.alivate.com.au/poppler-windows/
+* PDF converters https://www.xpdfreader.com/download.html
+* Online book creator https://github.com/rust-lang/mdBook
 
 Code converters (decompilers)
 
-* https://github.com/leibnitz27/cfr
-* https://github.com/intoolswetrust/jd-cli
+* Java https://github.com/leibnitz27/cfr
+* Java https://github.com/intoolswetrust/jd-cli
 
 # What is this and How to...
 

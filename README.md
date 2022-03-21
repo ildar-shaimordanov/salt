@@ -64,6 +64,8 @@ WIN32 native port of BusyBox
 * Textadept https://github.com/orbitalquark/textadept
 * BowPad https://github.com/stefankueng/BowPad
 
+* WinMerge https://github.com/WinMerge/winmerge
+
 ## Converters
 
 ### Text converters

@@ -10,6 +10,7 @@ _Set of lovely tools_
 * [Viewers, editors and converters](#viewers-editors-and-converters)
   * [Viewers](#viewers)
   * [Editors](#editors)
+  * [Comparison and merging](#comparison-and-merging)
   * [Converters](#converters)
     * [Text converters](#text-converters)
     * [Code converters (decompilers)](#code-converters-decompilers)
@@ -63,6 +64,8 @@ WIN32 native port of BusyBox
 * Notepad3 https://github.com/rizonesoft/Notepad3
 * Textadept https://github.com/orbitalquark/textadept
 * BowPad https://github.com/stefankueng/BowPad
+
+## Comparison and merging
 
 * WinMerge https://github.com/WinMerge/winmerge
 

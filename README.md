@@ -86,6 +86,7 @@ WIN32 native port of BusyBox
 * json2yaml https://github.com/bronze1man/json2yaml
 * yaml2json https://github.com/bronze1man/yaml2json
 * jq https://github.com/stedolan/jq
+* yq https://github.com/mikefarah/yq
 
 # What is this and How to...
 

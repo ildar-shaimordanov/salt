@@ -78,6 +78,7 @@ WIN32 native port of BusyBox
 * PDF converters https://blog.alivate.com.au/poppler-windows/
 * PDF converters https://www.xpdfreader.com/download.html
 * Online book creator https://github.com/rust-lang/mdBook
+* AsciiDoctorJ https://docs.asciidoctor.org/asciidoctorj/latest/distribution/
 
 ### Code converters (decompilers)
 

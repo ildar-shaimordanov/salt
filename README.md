@@ -13,6 +13,10 @@ _Set of lovely tools_
   * [Comparison and merging](#comparison-and-merging)
   * [Converters](#converters)
     * [Text converters](#text-converters)
+      * [Pandoc and friends](#pandoc-and-friends)
+      * [AsciiDoctor and friends](#asciidoctor-and-friends)
+      * [PDF converters](#pdf-converters)
+      * [Others](#others)
     * [Code converters (decompilers)](#code-converters-decompilers)
     * [Data formatters](#data-formatters)
 * [What is this and How to...](#what-is-this-and-how-to)
@@ -73,12 +77,29 @@ WIN32 native port of BusyBox
 
 ### Text converters
 
+#### Pandoc and friends
+
 * Pandoc https://github.com/jgm/pandoc
 * wkhtmltopdf https://wkhtmltopdf.org/downloads.html
+
+#### AsciiDoctor and friends
+
+* AsciiDoctorJ https://docs.asciidoctor.org/asciidoctorj/latest/distribution/
+* docToolchain https://github.com/docToolchain/docToolchain
+
+Open Document Text Backends for Asciidoctor
+
+* https://github.com/gregturn/asciidoctor-packt
+* https://github.com/kubamarchwicki/asciidoctor-fodt
+
+#### PDF converters
+
 * PDF converters https://blog.alivate.com.au/poppler-windows/
 * PDF converters https://www.xpdfreader.com/download.html
+
+#### Others
+
 * Online book creator https://github.com/rust-lang/mdBook
-* AsciiDoctorJ https://docs.asciidoctor.org/asciidoctorj/latest/distribution/
 
 ### Code converters (decompilers)
 

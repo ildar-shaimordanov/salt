@@ -7,6 +7,7 @@ _Set of lovely tools_
   * [Unix-like systems](#unix-like-systems)
   * [Shells and shell extensions](#shells-and-shell-extensions)
 * [File managers](#file-managers)
+* [Internet and related](#internet-and-related)
 * [Viewers, editors and converters](#viewers-editors-and-converters)
   * [Viewers](#viewers)
   * [Editors](#editors)
@@ -53,6 +54,10 @@ WIN32 native port of BusyBox
 
 * Far Manager https://farmanager.com/download.php
 * Explorer++ https://github.com/derceg/explorerplusplus
+
+# Internet and related
+
+* cURL https://curl.se/windows/
 
 # Viewers, editors and converters
 

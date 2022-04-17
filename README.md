@@ -9,6 +9,7 @@ _Set of lovely tools_
 * [File managers](#file-managers)
 * [Internet and related](#internet-and-related)
 * [Viewers, editors and converters](#viewers-editors-and-converters)
+  * [Alternatives for Office](#alternatives-for-office)
   * [Viewers](#viewers)
   * [Editors](#editors)
   * [Comparison and merging](#comparison-and-merging)
@@ -60,6 +61,11 @@ WIN32 native port of BusyBox
 * cURL https://curl.se/windows/
 
 # Viewers, editors and converters
+
+## Alternatives for Office
+
+* LibreOffice https://www.libreoffice.org/
+* OnlyOffice https://personal.onlyoffice.com/
 
 ## Viewers
 

@@ -12,6 +12,7 @@ _suitable and lovely tools_
   * [Converters](#converters)
     * [Pandoc and friends](#pandoc-and-friends)
     * [PDF converters](#pdf-converters)
+    * [RTF converters](#rtf-converters)
     * [JSON, YAML](#json-yaml)
     * [AsciiDoctor and friends](#asciidoctor-and-friends)
     * [Code converters (decompilers)](#code-converters-decompilers)
@@ -76,6 +77,10 @@ WIN32 native port of BusyBox
 
 * PDF converters https://blog.alivate.com.au/poppler-windows/
 * PDF converters https://www.xpdfreader.com/download.html
+
+### RTF converters
+
+* RTF to HTML converter https://github.com/lvu/rtf2html
 
 ### JSON, YAML
 

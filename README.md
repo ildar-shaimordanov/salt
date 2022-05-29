@@ -6,6 +6,10 @@ _suitable and lovely tools_
   * [Terminals](#terminals)
   * [Shells and shell extensions](#shells-and-shell-extensions)
   * [Unix-like systems](#unix-like-systems)
+    * [Emulators](#emulators)
+    * [Terminal emulators](#terminal-emulators)
+    * [BusyBox](#busybox)
+    * [Sudo](#sudo)
 * [File managers](#file-managers)
 * [Command line tools](#command-line-tools)
   * [Internet and related](#internet-and-related)
@@ -41,19 +45,29 @@ Customizable Windows terminals with tabs, hotkeys and more
 
 ## Unix-like systems
 
-Emulators
+### Emulators
 
 * Cygwin https://cygwin.com
 * MSYS2 https://www.msys2.org/wiki/MSYS2-installation/
+
+### Terminal emulators
 
 A Windows software packages providing an interface similar to a Unix pty-master for communicating with Windows console programs.
 
 * winpty https://github.com/rprichard/winpty
 * mintty https://github.com/mintty/mintty
 
+### BusyBox
+
 WIN32 native port of BusyBox
 
 * BusyBox https://github.com/rmyorston/busybox-w32
+
+### Sudo
+
+A Sudo for Windows
+
+* https://github.com/gerardog/gsudo
 
 # File managers
 

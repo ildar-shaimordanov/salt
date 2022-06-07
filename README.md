@@ -13,6 +13,7 @@ _suitable and lovely tools_
 * [File managers](#file-managers)
 * [Command line tools](#command-line-tools)
   * [Internet and related](#internet-and-related)
+  * [Clipboard processing](#clipboard-processing)
   * [Converters](#converters)
     * [Pandoc and friends](#pandoc-and-friends)
     * [PDF converters](#pdf-converters)
@@ -79,6 +80,11 @@ A Sudo for Windows
 ## Internet and related
 
 * cURL https://curl.se/windows/
+
+## Clipboard processing
+
+* NirCmd https://www.nirsoft.net/utils/nircmd.html
+* Outwit (winclip, etc) https://www.spinellis.gr/sw/outwit/
 
 ## Converters
 

@@ -14,6 +14,7 @@ _suitable and lovely tools_
 * [Command line tools](#command-line-tools)
   * [Internet and related](#internet-and-related)
   * [Clipboard processing](#clipboard-processing)
+  * [Backup tools](#backup-tools)
   * [Converters](#converters)
     * [Pandoc and friends](#pandoc-and-friends)
     * [PDF converters](#pdf-converters)
@@ -85,6 +86,10 @@ A Sudo for Windows
 
 * NirCmd https://www.nirsoft.net/utils/nircmd.html
 * Outwit (winclip, etc) https://www.spinellis.gr/sw/outwit/
+
+## Backup tools
+
+* nnBackup https://web.archive.org/web/20150401170226/http://nncron.ru/forums/viewtopic.php?f=11&t=11442
 
 ## Converters
 

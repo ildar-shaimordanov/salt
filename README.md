@@ -8,7 +8,6 @@ _suitable and lovely tools_
   * [Unix-like systems](#unix-like-systems)
     * [Emulators](#emulators)
     * [Terminal emulators](#terminal-emulators)
-    * [BusyBox](#busybox)
     * [Sudo](#sudo)
 * [File managers](#file-managers)
 * [Command line tools](#command-line-tools)
@@ -25,9 +24,14 @@ _suitable and lovely tools_
     * [Others](#others)
 * [Viewers, editors and converters](#viewers-editors-and-converters)
   * [Alternatives for Office](#alternatives-for-office)
-  * [Viewers](#viewers)
-  * [Editors](#editors)
-  * [Comparison and merging](#comparison-and-merging)
+  * [Media](#media)
+    * [Pictures](#pictures)
+    * [Audio](#audio)
+    * [Video](#video)
+  * [Text](#text)
+    * [Viewers](#viewers)
+    * [Editors](#editors)
+    * [Comparison and merging](#comparison-and-merging)
 * [What is this and How to...](#what-is-this-and-how-to)
 <!-- toc-end -->
 
@@ -51,6 +55,7 @@ Customizable Windows terminals with tabs, hotkeys and more
 
 * Cygwin https://cygwin.com
 * MSYS2 https://www.msys2.org/wiki/MSYS2-installation/
+* BusyBox https://github.com/rmyorston/busybox-w32
 
 ### Terminal emulators
 
@@ -58,12 +63,6 @@ A Windows software packages providing an interface similar to a Unix pty-master 
 
 * winpty https://github.com/rprichard/winpty
 * mintty https://github.com/mintty/mintty
-
-### BusyBox
-
-WIN32 native port of BusyBox
-
-* BusyBox https://github.com/rmyorston/busybox-w32
 
 ### Sudo
 
@@ -140,20 +139,35 @@ Open Document Text Backends for Asciidoctor
 * LibreOffice https://www.libreoffice.org/
 * OnlyOffice https://personal.onlyoffice.com/
 
-## Viewers
+## Media
+
+### Pictures
 
 * FastStone Image Viewer https://www.faststone.org/FSIVDownload.htm
+
+### Audio
+
+* foobar2000 https://www.foobar2000.org/download
+
+### Video
+
+* Media Player Classic - Home Cinema (MPC-HC) https://github.com/clsid2/mpc-hc
+
+## Text
+
+### Viewers
+
 * STDU Viewer http://www.stdutility.com/stduviewer.html
 * Sumatra PDF reader https://www.sumatrapdfreader.org/download-free-pdf-viewer
 
-## Editors
+### Editors
 
 * Notepad++ https://github.com/notepad-plus-plus/notepad-plus-plus
 * Notepad3 https://github.com/rizonesoft/Notepad3
 * Textadept https://github.com/orbitalquark/textadept
 * BowPad https://github.com/stefankueng/BowPad
 
-## Comparison and merging
+### Comparison and merging
 
 * WinMerge https://github.com/WinMerge/winmerge
 

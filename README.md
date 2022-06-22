@@ -159,6 +159,7 @@ Open Document Text Backends for Asciidoctor
 
 * STDU Viewer http://www.stdutility.com/stduviewer.html
 * Sumatra PDF reader https://www.sumatrapdfreader.org/download-free-pdf-viewer
+* WinDjView https://windjview.sourceforge.io/
 
 ### Editors
 

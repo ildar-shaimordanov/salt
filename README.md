@@ -23,7 +23,7 @@ _suitable and lovely tools_
     * [Code converters (decompilers)](#code-converters-decompilers)
     * [Others](#others)
 * [Viewers, editors and converters](#viewers-editors-and-converters)
-  * [Alternatives for Office](#alternatives-for-office)
+  * [Alternatives for Office and other MS applications](#alternatives-for-office-and-other-ms-applications)
   * [Media](#media)
     * [Pictures](#pictures)
     * [Audio](#audio)
@@ -134,10 +134,11 @@ Open Document Text Backends for Asciidoctor
 
 # Viewers, editors and converters
 
-## Alternatives for Office
+## Alternatives for Office and other MS applications
 
 * LibreOffice https://www.libreoffice.org/
 * OnlyOffice https://personal.onlyoffice.com/
+* Diagrams (draw.io desktop) https://github.com/jgraph/drawio-desktop
 
 ## Media
 

@@ -153,6 +153,7 @@ Open Document Text Backends for Asciidoctor
 ### Video
 
 * Media Player Classic - Home Cinema (MPC-HC) https://github.com/clsid2/mpc-hc
+* VLC media player - https://www.videolan.org/vlc/download-windows.html
 
 ## Text
 

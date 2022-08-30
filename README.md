@@ -59,6 +59,10 @@ Customizable Windows terminals with tabs, hotkeys and more
 
 ### Terminal emulators
 
+Portable and Windows Registry independent version of PuTTY
+
+* PuTTY https://jakub.kotrla.net/putty/
+
 A Windows software packages providing an interface similar to a Unix pty-master for communicating with Windows console programs.
 
 * winpty https://github.com/rprichard/winpty

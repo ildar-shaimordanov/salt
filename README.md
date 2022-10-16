@@ -130,8 +130,8 @@ Open Document Text Backends for Asciidoctor
 
 ### CSV
 
-* Analysis and data manipulating https://github.com/wfxr/csview
-* Formatting and viewing data https://github.com/BurntSushi/xsv
+* Data analysis and manipulating https://github.com/wfxr/csview
+* Data formatting and viewing https://github.com/BurntSushi/xsv
 
 ### Code converters (decompilers)
 

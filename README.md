@@ -20,6 +20,7 @@ _suitable and lovely tools_
     * [RTF converters](#rtf-converters)
     * [JSON, YAML](#json-yaml)
     * [AsciiDoctor and friends](#asciidoctor-and-friends)
+    * [CSV](#csv)
     * [Code converters (decompilers)](#code-converters-decompilers)
     * [Others](#others)
 * [Viewers, editors and converters](#viewers-editors-and-converters)
@@ -126,6 +127,11 @@ Open Document Text Backends for Asciidoctor
 
 * https://github.com/gregturn/asciidoctor-packt
 * https://github.com/kubamarchwicki/asciidoctor-fodt
+
+### CSV
+
+* Analysis and data manipulating https://github.com/wfxr/csview
+* Formatting and viewing data https://github.com/BurntSushi/xsv
 
 ### Code converters (decompilers)
 

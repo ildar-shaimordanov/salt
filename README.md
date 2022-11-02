@@ -33,6 +33,7 @@ _suitable and lovely tools_
     * [Viewers](#viewers)
     * [Editors](#editors)
     * [Comparison and merging](#comparison-and-merging)
+* [Online tools and books](#online-tools-and-books)
 * [What is this and How to...](#what-is-this-and-how-to)
 <!-- toc-end -->
 
@@ -183,6 +184,12 @@ Open Document Text Backends for Asciidoctor
 ### Comparison and merging
 
 * WinMerge https://github.com/WinMerge/winmerge
+
+# Online tools and books
+
+* HTML, CSS handbooks http://htmlbook.ru/
+* OneCompiler: 60+ languages at hand https://onecompiler.com/
+* Destop book for frontends https://developer.mozilla.org/en-US/docs/Web
 
 # What is this and How to...
 

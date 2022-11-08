@@ -189,7 +189,8 @@ Open Document Text Backends for Asciidoctor
 
 * HTML, CSS handbooks http://htmlbook.ru/
 * OneCompiler: 60+ languages at hand https://onecompiler.com/
-* Destop book for frontends https://developer.mozilla.org/en-US/docs/Web
+* Desktop book for frontends https://developer.mozilla.org/en-US/docs/Web
+* Kubernetes online (one of many) https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-interactive/
 
 # What is this and How to...
 

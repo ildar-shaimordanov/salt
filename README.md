@@ -178,6 +178,7 @@ Open Document Text Backends for Asciidoctor
 
 * Notepad++ https://github.com/notepad-plus-plus/notepad-plus-plus
 * Notepad3 https://github.com/rizonesoft/Notepad3
+* Notepad2e https://github.com/ProgerXP/Notepad2e
 * Textadept https://github.com/orbitalquark/textadept
 * BowPad https://github.com/stefankueng/BowPad
 

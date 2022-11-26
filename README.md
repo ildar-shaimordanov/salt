@@ -185,6 +185,7 @@ Open Document Text Backends for Asciidoctor
 ### Comparison and merging
 
 * WinMerge https://github.com/WinMerge/winmerge
+* Meld https://meldmerge.org/
 
 # Online tools and books
 

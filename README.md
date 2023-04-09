@@ -33,6 +33,7 @@ _suitable and lovely tools_
     * [Viewers](#viewers)
     * [Editors](#editors)
     * [Comparison and merging](#comparison-and-merging)
+  * [Databases](#databases)
 * [Online tools and books](#online-tools-and-books)
 * [What is this and How to...](#what-is-this-and-how-to)
 <!-- toc-end -->
@@ -186,6 +187,10 @@ Open Document Text Backends for Asciidoctor
 
 * WinMerge https://github.com/WinMerge/winmerge
 * Meld https://meldmerge.org/
+
+## Databases
+
+* DBeaver https://github.com/dbeaver/dbeaver
 
 # Online tools and books
 

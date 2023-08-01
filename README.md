@@ -18,12 +18,13 @@ _suitable and lovely tools_
     * [Pandoc and friends](#pandoc-and-friends)
     * [PDF converters](#pdf-converters)
     * [RTF converters](#rtf-converters)
+    * [XML, XSLT](#xml-xslt)
     * [JSON, YAML](#json-yaml)
     * [AsciiDoctor and friends](#asciidoctor-and-friends)
     * [CSV](#csv)
     * [Code converters (decompilers)](#code-converters-decompilers)
     * [Others](#others)
-* [Viewers, editors and converters](#viewers-editors-and-converters)
+* [GUI viewers, editors and converters](#gui-viewers-editors-and-converters)
   * [Alternatives for Office and other MS applications](#alternatives-for-office-and-other-ms-applications)
   * [Media](#media)
     * [Pictures](#pictures)
@@ -113,6 +114,18 @@ A Sudo for Windows
 
 * RTF to HTML converter https://github.com/lvu/rtf2html
 
+### XML, XSLT
+
+* xmllint, xsltproc, iconv (optionally) https://www.zlatkovic.com/libxml.en.html
+
+Download and unpack into the same directory the following packages
+
+* libxslt
+* libxml2
+* iconv
+* zlib
+* mingwrt
+
 ### JSON, YAML
 
 * json2yaml https://github.com/bronze1man/json2yaml
@@ -144,7 +157,7 @@ Open Document Text Backends for Asciidoctor
 
 * Online book creator https://github.com/rust-lang/mdBook
 
-# Viewers, editors and converters
+# GUI viewers, editors and converters
 
 ## Alternatives for Office and other MS applications
 

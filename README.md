@@ -14,6 +14,8 @@ _suitable and lovely tools_
   * [Internet and related](#internet-and-related)
   * [Clipboard processing](#clipboard-processing)
   * [Backup tools](#backup-tools)
+  * [Databases](#databases)
+    * [PostgreSQL](#postgresql)
   * [Converters](#converters)
     * [Pandoc and friends](#pandoc-and-friends)
     * [PDF converters](#pdf-converters)
@@ -34,7 +36,7 @@ _suitable and lovely tools_
     * [Viewers](#viewers)
     * [Editors](#editors)
     * [Comparison and merging](#comparison-and-merging)
-  * [Databases](#databases)
+  * [Databases](#databases-1)
 * [Online tools and books](#online-tools-and-books)
 * [What is this and How to...](#what-is-this-and-how-to)
 <!-- toc-end -->
@@ -97,6 +99,49 @@ A Sudo for Windows
 ## Backup tools
 
 * nnBackup https://web.archive.org/web/20150401170226/http://nncron.ru/forums/viewtopic.php?f=11&t=11442
+
+## Databases
+
+### PostgreSQL
+
+* installers https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+* binaries https://www.enterprisedb.com/download-postgresql-binaries
+
+<details>
+<summary>More details how to configure and run psql client</summary>
+
+* https://www.postgresql.org/docs/current/app-psql.html
+* https://www.postgresql.org/docs/current/libpq-pgpass.html
+* https://wiki.postgresql.org/wiki/Psqlrc
+* https://www.8host.com/blog/nastrojka-komandnoj-stroki-postgresql-c-pomoshhyu-psqlrc-v-ubuntu-14-04/
+
+```
+psql -h HOST -p PORT -d DB -U USER -w
+
+alias pg-DB='psql -h HOST -p PORT -d DB -U USER -w'
+```
+
+</details>
+
+
+<details>
+<summary>The minimal list of binaries required for clients under Windows</summary>
+
+It's weird but working way to set on Windows the psql client only, without those tons of other stuff. Simply extract from an archive the following files and place them under the same directory next to each other.
+
+If during usage some errors happen, you just need to extract one more files and place under the same directory.
+
+```
+libcrypto-1_1-x64.dll
+libiconv-2.dll
+libintl-9.dll
+libpq.dll
+libssl-1_1-x64.dll
+libwinpthread-1.dll
+psql.exe
+```
+
+</details>
 
 ## Converters
 

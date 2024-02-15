@@ -252,8 +252,14 @@ Open Document Text Backends for Asciidoctor
 
 # Online tools and books
 
+Tools
+
 * OneCompiler: 60+ languages at hand https://onecompiler.com/
+* JQ Play https://jqplay.org/
 * Online tools (format, validate, convert, etc) https://www.freeformatter.com/
+
+Books
+
 * HTML, CSS handbooks http://htmlbook.ru/
 * XSLT handbok https://xsltdev.ru/
 * Desktop book for frontends https://developer.mozilla.org/en-US/docs/Web

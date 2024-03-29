@@ -256,6 +256,7 @@ Tools
 
 * OneCompiler: 60+ languages at hand https://onecompiler.com/
 * JQ Play https://jqplay.org/
+* Play with Kubernetes https://labs.play-with-k8s.com/
 * Online tools (format, validate, convert, etc) https://www.freeformatter.com/
 * Beautify, Minify, Convert code/data to an expected result https://codebeautify.org/
 
